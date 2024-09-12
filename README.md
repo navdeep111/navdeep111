@@ -30,5 +30,4 @@ Check out my [**portfolio**](https://navdeep111.github.io/My-Portfolio/) to see 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep111&show_icons=true&locale=en&layout=compact" alt="navdeep111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep111&" alt="navdeep111" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&" alt="peter-kimanzi" /></p>
