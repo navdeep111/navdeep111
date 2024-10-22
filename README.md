@@ -31,3 +31,11 @@ Check out my [**portfolio**](https://navdeep111.github.io/My-Portfolio/) to see 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep111&show_icons=true&locale=en&layout=compact" alt="navdeep111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep111&" alt="navdeep111" /></p>
+
+
+<h2 align="center">My GitHub Stats 📶</h2>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=navdeep111&theme=dracula&show_icons=true" alt="navdeep111" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=navdeep111&theme=dracula&hide_border=false" alt ="navdeep111" width="400" />
+</p>
