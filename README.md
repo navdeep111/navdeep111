@@ -36,6 +36,4 @@ Check out my [**portfolio**](https://navdeep111.github.io/My-Portfolio/) to see 
 <h2 align="center">My GitHub Stats 📶</h2>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=navdeep111&theme=dracula&show_icons=true" alt="navdeep111" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=navdeep111&theme=dracula&hide_border=false" alt ="navdeep111" width="400" />
-</p>
+
