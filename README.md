@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on [MERN STACK Projects] 
 
 - 👨‍💻 All of my projects are available at [https://github.com/navdeep111?tab=repositories](https://github.com/navdeep111?tab=repositories)
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDb, Basic TypeScript, Node.js, Firebase**
-
 - 📫 How to reach me **guptanavdeep9461@gmail.com**
 
 ## 🌐 Portfolio
