@@ -10,7 +10,7 @@
 
 ## 🌐 Portfolio
 
-Check out my [**portfolio**](https://navdeep111.github.io/My-Portfolio/) to see a showcase of my work and projects.
+Check out my [**portfolio**](https://navdeep.tech) to see a showcase of my work and projects.
 
 ## 💬 Connect with me
 <p align="left">
